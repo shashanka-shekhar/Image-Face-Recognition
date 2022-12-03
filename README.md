@@ -1,8 +1,7 @@
 # ImageFaceRecognition
 
 
-Content
 So the data contain around 100 images of each celebrity namely Kobe, Kane, Maria, and Ronaldo.
 
-pretrainded Facenet model is used for classification.
+Pretrainded Facenet model is used for extracting features followed by a linear SVC for classification.
 
