@@ -17,6 +17,6 @@ This project uses python3, tensorflow, keras, PIL, numpy, pandas, mtcnn, os in k
 
 Model used :
 
- 1.Pre-trainded Facenet model is used for extracting features followed by a linear SVC for classification.
+ 1.Pre-trained Facenet model is used for extracting features followed by a linear SVC for classification.
  
  2.MTCNN model was used to extract faces from images.
